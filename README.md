@@ -1,4 +1,14 @@
-# template
+# Template
+
+A template repo with Tailwind, PurgeCSS, and Pug configured.
+
+You can clone this or create one for yourself by running these commands
+
+```
+vue create template
+vue add @ky-is/tailwind
+yarn add pug pug-plain-loader
+```
 
 ## Project setup
 ```
